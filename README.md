@@ -1,2 +1,1 @@
-# Easybank--website
- an awesome website
+# Easybank--website : https://easybank-akro.netlify.app
